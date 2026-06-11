@@ -1,16 +1,34 @@
-# Hi, I'm Ankush Kumar 👋
+# Hi there, I'm Ankush Kumar! 👋
 
-🎯 Aspiring Data Analyst | New Delhi, India
+An aspiring **Data Analyst** based in New Delhi, India. I love playing with data, cleaning messy datasets, and turning numbers into beautiful, actionable dashboards that help businesses make smart decisions. 📊✈️
 
-## 🛠️ Tech Stack
-- 🗄️ SQL | 🐍 Python (Pandas, NumPy, Matplotlib)
-- 📊 Power BI | 📈 Microsoft Excel
-- 🔍 EDA | Data Cleaning | Business Intelligence
+---
 
-## 📜 Certifications
-- Deloitte Australia — Data Analytics Job Simulation
-- Tata Group — GenAI-Powered Data Analytics Simulation
-- Walmart USA — Advanced Software Engineering Simulation
+### 🛠️ Technical Toolbox
 
-## 📫 Connect with me
-[LinkedIn](https://linkedin.com/in/ankush-kumar-367598259)
+- **Languages & Querying:** SQL, Python (Pandas, NumPy, Matplotlib)
+- **Data Visualization:** Power BI (Dashboards, DAX), MS Excel (Pivot Tables, VLOOKUP, Charts)
+- **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Business Intelligence, Reporting
+
+---
+
+### 💼 Industry Simulations & Experience (Forage)
+
+*   **Deloitte Australia** | Data Analytics Simulation — *Analyzed datasets & delivered client-ready insight reports.*
+*   **Tata Group** | GenAI-Powered Data Analytics — *Leveraged GenAI for automated insight generation & reporting.*
+*   **Walmart USA** | Advanced Software Engineering — *Explored enterprise retail datasets & query optimizations.*
+
+---
+
+### 📂 Featured Projects (Coming Soon! 🛠️)
+
+*   **Sales Data Dashboard (Excel):** Built a dynamic sales tracking dashboard using Pivot Tables & slicers.
+*   **Customer Behaviour Analysis (Python):** Performed end-to-end EDA, cleaned nulls, and visualized customer segments.
+
+---
+
+### 🌐 Connect with Me
+
+- 💼 **LinkedIn:** [linkedin.com/in/ankush-kumar-367598259](https://linkedin.com/in/ankush-kumar-367598259)
+- 📧 **Email:** ankushkumar952345@gmail.com
+- 
