@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ankush Kumar 👋
 
-<!--
-**Ankushkumar2007/Ankushkumar2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring Data Analyst | New Delhi, India
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- 🗄️ SQL | 🐍 Python (Pandas, NumPy, Matplotlib)
+- 📊 Power BI | 📈 Microsoft Excel
+- 🔍 EDA | Data Cleaning | Business Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Deloitte Australia — Data Analytics Job Simulation
+- Tata Group — GenAI-Powered Data Analytics Simulation
+- Walmart USA — Advanced Software Engineering Simulation
+
+## 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/ankush-kumar-367598259)
