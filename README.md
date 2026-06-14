@@ -71,8 +71,8 @@ An aspiring **Data Analyst** based in New Delhi, India. I love playing with data
 ### 📈 GitHub Analytics
 
 <p align="left">
-  <img src="https://github-readme-stats.shion.dev/api?username=Ankushkumar2007&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://streak-stats.demolab.com/?user=Ankushkumar2007&theme=dark&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Ankushkumarofficiall &theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://streak-stats.demolab.com/?user=Ankushkumarofficiall&theme=dark&hide_border=false" height="150" />
 </p>
 
 ---
